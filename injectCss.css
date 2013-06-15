@@ -1,0 +1,14 @@
+body {
+
+	background: red;
+}
+
+.resWrap {
+	width: 200px;
+	height: 30px;
+	background: black;
+	color: white;
+	position: fixed;
+	top:10px;left: 10px;
+	text-align: center;
+}
